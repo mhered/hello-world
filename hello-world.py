@@ -1,1 +1,9 @@
+import sys
+
+print(sys.executable)
+print(sys.version)
+
 print('Hello world!')
+for i in [1, 2, 3, 4]:
+    print(i)
+print('Still there, world?')
