@@ -1,5 +1,6 @@
 # dummy hidden.py file with hidden keys
 # should not be updated to github
+# third try: this local modification should not be visible in github
 
 def oauth():
     return {
